@@ -1,4 +1,4 @@
-# PROJECT 200 
+# PROJECT 500
 
 
 This is a **detailed list of 500 project ideas** that should be built in **Any STACK** to master **Software Development**. Each project includes a brief feature breakdown.  
